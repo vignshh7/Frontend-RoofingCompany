@@ -49,12 +49,12 @@ vercel --prod
 
 ## 🚀 Future Enhancements
 
-- [ ] 🧮 **Online Quote Calculator**: Interactive pricing tool
-- [ ] 👤 **Customer Portal**: Account management system
-- [ ] 📝 **Blog Section**: Industry news and tips
-- [ ] 💬 **Live Chat Support**: Real-time customer assistance
-- [ ] 📅 **Appointment Booking**: Online scheduling system
-- [ ] 🏗️ **3D Roof Visualization**: Interactive roof modeling
+-  🧮 **Online Quote Calculator**: Interactive pricing tool
+-  👤 **Customer Portal**: Account management system
+-  📝 **Blog Section**: Industry news and tips
+-  💬 **Live Chat Support**: Real-time customer assistance
+-  📅 **Appointment Booking**: Online scheduling system
+-  🏗️ **3D Roof Visualization**: Interactive roof modeling
 
 ## 📄 License
 
