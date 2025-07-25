@@ -77,33 +77,6 @@ A modern, responsive frontend website for a professional roofing company. Built 
    ```
 
 
-
-## 🎨 Customization
-
-### Branding
-1. **Logo Replacement**: Replace logo files in `assets/logos/`
-2. **Color Scheme**: Update CSS variables in `css/style.css`
-   ```css
-   :root {
-     --primary-color: #2c3e50;
-     --secondary-color: #e74c3c;
-     --accent-color: #f39c12;
-   }
-   ```
-3. **Typography**: Modify font selections in CSS
-
-### Content Updates
-1. **Company Information**: Edit HTML files with your company details
-2. **Services**: Update service descriptions and pricing
-3. **Contact Details**: Replace with actual contact information
-4. **Portfolio**: Add your project photos and descriptions
-
-### Images
-- **Hero Images**: Replace with high-quality roofing photos (1920x1080 recommended)
-- **Service Icons**: Use consistent icon style throughout
-- **Portfolio Photos**: Before/after shots work best (800x600 minimum)
-- **Team Photos**: Professional headshots (400x400 recommended)
-
 ## 🔧 Key Components
 
 ### Navigation Menu
