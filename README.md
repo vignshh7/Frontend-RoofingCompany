@@ -130,35 +130,7 @@ A modern, responsive frontend website for a professional roofing company. Built 
 - **Loading Animations**: Smooth page transitions
 - **Social Media Integration**: Links to company social profiles
 
-## 📊 Performance Features
 
-### Optimization
-- **Image Compression**: Optimized file sizes without quality loss
-- **CSS Minification**: Reduced file sizes for faster loading
-- **JavaScript Optimization**: Efficient code structure
-- **Caching Headers**: Browser caching for return visitors
-
-### SEO Ready
-- **Meta Tags**: Proper title and description tags
-- **Structured Data**: Schema markup for better search visibility
-- **Alt Text**: Descriptive alt text for all images
-- **Clean URLs**: SEO-friendly page structure
-
-
-
-## 📱 Mobile Features
-
-### Touch Optimization
-- **Touch Targets**: Properly sized buttons and links
-- **Gesture Support**: Swipe navigation in galleries
-- **Fast Tap**: Optimized for mobile interaction
-- **Zoom Control**: Proper viewport settings
-
-### Performance
-- **Lightweight**: Optimized for mobile data usage
-- **Fast Loading**: Compressed assets and efficient code
-- **Offline Fallback**: Basic offline functionality
-- **Progressive Enhancement**: Works without JavaScript
 
 ## 🚀 Deployment
 
@@ -212,9 +184,3 @@ This project is open source.
 *Built with ❤️ for roofing professionals and their customers*
 
 
-
-### Marketing Ready
-- **Lead Generation**: Optimized forms for capturing customer inquiries
-- **Local SEO**: Structured for local search optimization
-- **Conversion Focused**: Strategic placement of call-to-action elements
-- **Trust Building**: Sections for testimonials and certifications
