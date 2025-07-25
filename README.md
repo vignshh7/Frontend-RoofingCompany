@@ -47,14 +47,14 @@ git push origin main
 vercel --prod
 ```
 
-## 🔮 Future Enhancements
+## 🚀 Future Enhancements
 
-- [ ] Online quote calculator
-- [ ] Customer portal
-- [ ] Blog section
-- [ ] Live chat support
-- [ ] Appointment booking
-- [ ] 3D roof visualization
+- [ ] 🧮 **Online Quote Calculator**: Interactive pricing tool
+- [ ] 👤 **Customer Portal**: Account management system
+- [ ] 📝 **Blog Section**: Industry news and tips
+- [ ] 💬 **Live Chat Support**: Real-time customer assistance
+- [ ] 📅 **Appointment Booking**: Online scheduling system
+- [ ] 🏗️ **3D Roof Visualization**: Interactive roof modeling
 
 ## 📄 License
 
