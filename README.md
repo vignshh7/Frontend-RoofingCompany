@@ -77,34 +77,6 @@ A modern, responsive frontend website for a professional roofing company. Built 
    ```
 
 
-## 🔧 Key Components
-
-### Navigation Menu
-- **Sticky Header**: Remains visible while scrolling
-- **Mobile Menu**: Hamburger menu for mobile devices
-- **Smooth Scrolling**: Animated transitions between sections
-- **Active States**: Visual indication of current page
-
-### Contact Forms
-- **Quote Request**: Detailed project information form
-- **Quick Contact**: Simple inquiry form
-- **Form Validation**: Client-side validation with feedback
-- **Responsive Layout**: Works well on all devices
-
-### Gallery System
-- **Lightbox Effect**: Full-screen image viewing
-- **Category Filtering**: Filter projects by type
-- **Lazy Loading**: Improved performance for image-heavy pages
-- **Touch Gestures**: Swipe navigation on mobile
-
-### Interactive Elements
-- **Call-to-Action Buttons**: Strategic placement throughout site
-- **Hover Effects**: Engaging micro-interactions
-- **Loading Animations**: Smooth page transitions
-- **Social Media Integration**: Links to company social profiles
-
-
-
 ## 🚀 Deployment
 
 ### Static Hosting
